@@ -1,0 +1,17 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'sotlrachmann.blg'
+[31] biber-darwin:340> INFO - === Thu Feb  6, 2025, 09:55:20
+[38] Biber.pm:419> INFO - Reading 'sotlrachmann.bcf'
+[76] Biber.pm:979> INFO - Found 5 citekeys in bib section 0
+[82] Biber.pm:4419> INFO - Processing section 0
+[86] Biber.pm:4610> INFO - Looking for bibtex file 'references.bib' for section 0
+[87] bibtex.pm:1713> INFO - LaTeX decoding ...
+[92] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[123] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[123] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[123] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[123] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[127] bbl.pm:660> INFO - Writing 'sotlrachmann.bbl' with encoding 'UTF-8'
+[128] bbl.pm:763> INFO - Output to sotlrachmann.bbl
+[128] Biber.pm:131> WARN - legacy month field 'Apr.' in entry 'Hafeez_Khan_Jawaid_Haroon_2014' is not an integer - this will probably not sort properly.
+[128] Biber.pm:133> INFO - WARNINGS: 1

@@ -1,0 +1,237 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{10.1145/1539024.1508923}{article}{}
+      \name{author}{3}{}{%
+        {{hash=aaf7649b737e17fea8ac3c7acb64b35e}{%
+           family={Barker},
+           familyi={B\bibinitperiod},
+           given={Lecia\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f4b1988f7324dd5970939a8d1f3a4f69}{%
+           family={McDowell},
+           familyi={M\bibinitperiod},
+           given={Charlie},
+           giveni={C\bibinitperiod}}}%
+        {{hash=26a2a202b1a1e8caaa512a898e857f72}{%
+           family={Kalahar},
+           familyi={K\bibinitperiod},
+           given={Kimberly},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{26b8372c2da1a64a4e2b7a666ab7775b}
+      \strng{fullhash}{26b8372c2da1a64a4e2b7a666ab7775b}
+      \strng{bibnamehash}{26b8372c2da1a64a4e2b7a666ab7775b}
+      \strng{authorbibnamehash}{26b8372c2da1a64a4e2b7a666ab7775b}
+      \strng{authornamehash}{26b8372c2da1a64a4e2b7a666ab7775b}
+      \strng{authorfullhash}{26b8372c2da1a64a4e2b7a666ab7775b}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper describes an exploratory study to identify which environmental and student factors best predict intention to persist in the computer science major. The findings can be used to make decisions about initiatives for increasing retention. Eight indices of student characteristics and perceptions were developed using the research-based Student Experience of the Major Survey: student-student interaction; student-faculty interaction; collaborative learning opportunities; pace/workload/prior experience with programming; teaching assistants; classroom climate/pedagogy; meaningful assignments; and racism/sexism. A linear regression revealed that student-student interaction was the most powerful predictor of students' intention to persist in the major beyond the introductory course. Other factors predicting intention to persist were pace/workload/prior experience and male gender. The findings suggest that computer science departments interested in increasing retention of students set structured expectations for student-student interaction in ways that integrate peer involvement as a mainstream activity rather than making it optional or extracurricular. They also suggest departments find ways to manage programming experience gaps in CS1.}
+      \field{issn}{0097-8418}
+      \field{journaltitle}{SIGCSE Bull.}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{Exploring factors that influence computer science introductory course students to persist in the major}
+      \field{volume}{41}
+      \field{year}{2009}
+      \field{pages}{153\bibrangedash 157}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1145/1539024.1508923
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/1539024.1508923
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/1539024.1508923
+      \endverb
+      \keyw{student-student interaction,student experience of the major,retention,regression analysis,persistence,peer interaction,pace,gender,experience gap,attrition}
+    \endentry
+    \entry{Hafeez_Khan_Jawaid_Haroon_2014}{article}{}
+      \name{author}{4}{}{%
+        {{hash=203edbb642c5900ca3d8c8b9b8e2f9fb}{%
+           family={Hafeez},
+           familyi={H\bibinitperiod},
+           given={Kamran},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2bc8ddd02278e35e36d30fa68ebd79cd}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Mohammad\bibnamedelima Laiq-uz-Zaman},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinithyphendelim Z\bibinitperiod}}}%
+        {{hash=772297bea384ed47eacef734357ef567}{%
+           family={Jawaid},
+           familyi={J\bibinitperiod},
+           given={Masood},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4eaf102cac2903d49d07ee9b804af598}{%
+           family={Haroon},
+           familyi={H\bibinitperiod},
+           given={Saroona},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f25a2b9ae35ea9e31c55cd5fbe501df}
+      \strng{fullhash}{d14939dec3ccabc030cd0207ff24fe17}
+      \strng{bibnamehash}{4f25a2b9ae35ea9e31c55cd5fbe501df}
+      \strng{authorbibnamehash}{4f25a2b9ae35ea9e31c55cd5fbe501df}
+      \strng{authornamehash}{4f25a2b9ae35ea9e31c55cd5fbe501df}
+      \strng{authorfullhash}{d14939dec3ccabc030cd0207ff24fe17}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Postgraduate Medical Institute}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{Low attendance in lectures at medical colleges of Karachi – A cross sectional survey}
+      \field{volume}{28}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://jpmi.org.pk/index.php/jpmi/article/view/1565
+      \endverb
+      \verb{url}
+      \verb https://jpmi.org.pk/index.php/jpmi/article/view/1565
+      \endverb
+    \endentry
+    \entry{10.1145/2843043.2843061}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=0b87b21034ee208758ab6157a8a48398}{%
+           family={Hsu},
+           familyi={H\bibinitperiod},
+           given={Wen\bibnamedelima Chin},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=2d6be4e3fe50c3f9e7f3a66a894635a1}{%
+           family={Plunkett},
+           familyi={P\bibinitperiod},
+           given={Scott\bibnamedelima W.},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Canberra, Australia}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{f06cb63b5d21ef6509ba05ad420331a7}
+      \strng{fullhash}{f06cb63b5d21ef6509ba05ad420331a7}
+      \strng{bibnamehash}{f06cb63b5d21ef6509ba05ad420331a7}
+      \strng{authorbibnamehash}{f06cb63b5d21ef6509ba05ad420331a7}
+      \strng{authornamehash}{f06cb63b5d21ef6509ba05ad420331a7}
+      \strng{authorfullhash}{f06cb63b5d21ef6509ba05ad420331a7}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Attendance has shown to have a positive effect on student performance in numerous disciplines. However, very few studies have focused on how attendance influences the learning of programming in the U.S. higher education system. This paper examines the relationship between attendance and student performance in introductory programming courses. Data were collected from 103 students from nine class sessions of introductory programming classes taught at University X by two instructors in the department of Computer Science in the first and second semesters during the 2014/2015 academic year. The statistical analyses showed a significant positive correlation between attendance and student programming performance beyond other factors. Thus, encouraging attendance is recommended to educators as a pedagogical strategy.}
+      \field{booktitle}{Proceedings of the Australasian Computer Science Week Multiconference}
+      \field{isbn}{9781450340427}
+      \field{series}{ACSW '16}
+      \field{title}{Attendance and grades in learning programming classes}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1145/2843043.2843061
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/2843043.2843061
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/2843043.2843061
+      \endverb
+      \keyw{attendance,computer science course,learning programming,students' performance}
+    \endentry
+    \entry{narula2013relationship}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f728bea2b95d229e1be3b11b301ea105}{%
+           family={Narula},
+           familyi={N\bibinitperiod},
+           given={Meenakshi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f511f7a9ab63137c4907f6115d71cf46}{%
+           family={Nagar},
+           familyi={N\bibinitperiod},
+           given={Pankaj},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{db5eb4f8a6825c2d71f14b09a9a6c03e}
+      \strng{fullhash}{db5eb4f8a6825c2d71f14b09a9a6c03e}
+      \strng{bibnamehash}{db5eb4f8a6825c2d71f14b09a9a6c03e}
+      \strng{authorbibnamehash}{db5eb4f8a6825c2d71f14b09a9a6c03e}
+      \strng{authornamehash}{db5eb4f8a6825c2d71f14b09a9a6c03e}
+      \strng{authorfullhash}{db5eb4f8a6825c2d71f14b09a9a6c03e}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computer Science and Mobile Computing}
+      \field{number}{8}
+      \field{title}{Relationship between students’ performance and class attendance in a Programming Language subject in a computer course}
+      \field{volume}{2}
+      \field{year}{2013}
+      \field{pages}{206\bibrangedash 210}
+      \range{pages}{5}
+    \endentry
+    \entry{yao2011correlation}{article}{}
+      \name{author}{2}{}{%
+        {{hash=cc296ca28f208485d8e6a3488babe9cb}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={Jenq-Foung"\bibnamedelima Jf"},
+           giveni={J\bibinithyphendelim F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8d8d27c6c7bf1f7507baf8e339d569d3}{%
+           family={Chiang},
+           familyi={C\bibinitperiod},
+           given={Tsu-Ming},
+           giveni={T\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Consortium for Computing Sciences in Colleges}%
+      }
+      \strng{namehash}{5bd596df9212892745eab3dd5406ac3b}
+      \strng{fullhash}{5bd596df9212892745eab3dd5406ac3b}
+      \strng{bibnamehash}{5bd596df9212892745eab3dd5406ac3b}
+      \strng{authorbibnamehash}{5bd596df9212892745eab3dd5406ac3b}
+      \strng{authornamehash}{5bd596df9212892745eab3dd5406ac3b}
+      \strng{authorfullhash}{5bd596df9212892745eab3dd5406ac3b}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of computing sciences in colleges}
+      \field{number}{2}
+      \field{title}{Correlation between class attendance and grade}
+      \field{volume}{27}
+      \field{year}{2011}
+      \field{pages}{142\bibrangedash 147}
+      \range{pages}{6}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
