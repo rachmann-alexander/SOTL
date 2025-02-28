@@ -19,217 +19,295 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
-    \entry{10.1145/1539024.1508923}{article}{}
-      \name{author}{3}{}{%
-        {{hash=aaf7649b737e17fea8ac3c7acb64b35e}{%
-           family={Barker},
+    \entry{barrows1986framework}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8b5f467bacf9f2b8bac681da15d32de6}{%
+           family={Barrows},
            familyi={B\bibinitperiod},
-           given={Lecia\bibnamedelima J.},
-           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=f4b1988f7324dd5970939a8d1f3a4f69}{%
-           family={McDowell},
-           familyi={M\bibinitperiod},
-           given={Charlie},
-           giveni={C\bibinitperiod}}}%
-        {{hash=26a2a202b1a1e8caaa512a898e857f72}{%
-           family={Kalahar},
-           familyi={K\bibinitperiod},
-           given={Kimberly},
-           giveni={K\bibinitperiod}}}%
+           given={H.\bibnamedelimi S.},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {New York, NY, USA}%
-      }
-      \list{publisher}{1}{%
-        {Association for Computing Machinery}%
-      }
-      \strng{namehash}{26b8372c2da1a64a4e2b7a666ab7775b}
-      \strng{fullhash}{26b8372c2da1a64a4e2b7a666ab7775b}
-      \strng{bibnamehash}{26b8372c2da1a64a4e2b7a666ab7775b}
-      \strng{authorbibnamehash}{26b8372c2da1a64a4e2b7a666ab7775b}
-      \strng{authornamehash}{26b8372c2da1a64a4e2b7a666ab7775b}
-      \strng{authorfullhash}{26b8372c2da1a64a4e2b7a666ab7775b}
+      \strng{namehash}{8b5f467bacf9f2b8bac681da15d32de6}
+      \strng{fullhash}{8b5f467bacf9f2b8bac681da15d32de6}
+      \strng{bibnamehash}{8b5f467bacf9f2b8bac681da15d32de6}
+      \strng{authorbibnamehash}{8b5f467bacf9f2b8bac681da15d32de6}
+      \strng{authornamehash}{8b5f467bacf9f2b8bac681da15d32de6}
+      \strng{authorfullhash}{8b5f467bacf9f2b8bac681da15d32de6}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{This paper describes an exploratory study to identify which environmental and student factors best predict intention to persist in the computer science major. The findings can be used to make decisions about initiatives for increasing retention. Eight indices of student characteristics and perceptions were developed using the research-based Student Experience of the Major Survey: student-student interaction; student-faculty interaction; collaborative learning opportunities; pace/workload/prior experience with programming; teaching assistants; classroom climate/pedagogy; meaningful assignments; and racism/sexism. A linear regression revealed that student-student interaction was the most powerful predictor of students' intention to persist in the major beyond the introductory course. Other factors predicting intention to persist were pace/workload/prior experience and male gender. The findings suggest that computer science departments interested in increasing retention of students set structured expectations for student-student interaction in ways that integrate peer involvement as a mainstream activity rather than making it optional or extracurricular. They also suggest departments find ways to manage programming experience gaps in CS1.}
-      \field{issn}{0097-8418}
-      \field{journaltitle}{SIGCSE Bull.}
-      \field{month}{3}
-      \field{number}{1}
-      \field{title}{Exploring factors that influence computer science introductory course students to persist in the major}
-      \field{volume}{41}
-      \field{year}{2009}
-      \field{pages}{153\bibrangedash 157}
-      \range{pages}{5}
-      \verb{doi}
-      \verb 10.1145/1539024.1508923
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1145/1539024.1508923
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1145/1539024.1508923
-      \endverb
-      \keyw{student-student interaction,student experience of the major,retention,regression analysis,persistence,peer interaction,pace,gender,experience gap,attrition}
-    \endentry
-    \entry{Hafeez_Khan_Jawaid_Haroon_2014}{article}{}
-      \name{author}{4}{}{%
-        {{hash=203edbb642c5900ca3d8c8b9b8e2f9fb}{%
-           family={Hafeez},
-           familyi={H\bibinitperiod},
-           given={Kamran},
-           giveni={K\bibinitperiod}}}%
-        {{hash=2bc8ddd02278e35e36d30fa68ebd79cd}{%
-           family={Khan},
-           familyi={K\bibinitperiod},
-           given={Mohammad\bibnamedelima Laiq-uz-Zaman},
-           giveni={M\bibinitperiod\bibinitdelim L\bibinithyphendelim Z\bibinitperiod}}}%
-        {{hash=772297bea384ed47eacef734357ef567}{%
-           family={Jawaid},
-           familyi={J\bibinitperiod},
-           given={Masood},
-           giveni={M\bibinitperiod}}}%
-        {{hash=4eaf102cac2903d49d07ee9b804af598}{%
-           family={Haroon},
-           familyi={H\bibinitperiod},
-           given={Saroona},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{4f25a2b9ae35ea9e31c55cd5fbe501df}
-      \strng{fullhash}{d14939dec3ccabc030cd0207ff24fe17}
-      \strng{bibnamehash}{4f25a2b9ae35ea9e31c55cd5fbe501df}
-      \strng{authorbibnamehash}{4f25a2b9ae35ea9e31c55cd5fbe501df}
-      \strng{authornamehash}{4f25a2b9ae35ea9e31c55cd5fbe501df}
-      \strng{authorfullhash}{d14939dec3ccabc030cd0207ff24fe17}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Postgraduate Medical Institute}
-      \field{month}{4}
-      \field{number}{2}
-      \field{title}{Low attendance in lectures at medical colleges of Karachi – A cross sectional survey}
-      \field{volume}{28}
-      \field{year}{2014}
-      \verb{urlraw}
-      \verb https://jpmi.org.pk/index.php/jpmi/article/view/1565
-      \endverb
-      \verb{url}
-      \verb https://jpmi.org.pk/index.php/jpmi/article/view/1565
-      \endverb
-    \endentry
-    \entry{10.1145/2843043.2843061}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=0b87b21034ee208758ab6157a8a48398}{%
-           family={Hsu},
-           familyi={H\bibinitperiod},
-           given={Wen\bibnamedelima Chin},
-           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=2d6be4e3fe50c3f9e7f3a66a894635a1}{%
-           family={Plunkett},
-           familyi={P\bibinitperiod},
-           given={Scott\bibnamedelima W.},
-           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Canberra, Australia}%
-      }
-      \list{publisher}{1}{%
-        {Association for Computing Machinery}%
-      }
-      \strng{namehash}{f06cb63b5d21ef6509ba05ad420331a7}
-      \strng{fullhash}{f06cb63b5d21ef6509ba05ad420331a7}
-      \strng{bibnamehash}{f06cb63b5d21ef6509ba05ad420331a7}
-      \strng{authorbibnamehash}{f06cb63b5d21ef6509ba05ad420331a7}
-      \strng{authornamehash}{f06cb63b5d21ef6509ba05ad420331a7}
-      \strng{authorfullhash}{f06cb63b5d21ef6509ba05ad420331a7}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Attendance has shown to have a positive effect on student performance in numerous disciplines. However, very few studies have focused on how attendance influences the learning of programming in the U.S. higher education system. This paper examines the relationship between attendance and student performance in introductory programming courses. Data were collected from 103 students from nine class sessions of introductory programming classes taught at University X by two instructors in the department of Computer Science in the first and second semesters during the 2014/2015 academic year. The statistical analyses showed a significant positive correlation between attendance and student programming performance beyond other factors. Thus, encouraging attendance is recommended to educators as a pedagogical strategy.}
-      \field{booktitle}{Proceedings of the Australasian Computer Science Week Multiconference}
-      \field{isbn}{9781450340427}
-      \field{series}{ACSW '16}
-      \field{title}{Attendance and grades in learning programming classes}
-      \field{year}{2016}
-      \verb{doi}
-      \verb 10.1145/2843043.2843061
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1145/2843043.2843061
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1145/2843043.2843061
-      \endverb
-      \keyw{attendance,computer science course,learning programming,students' performance}
-    \endentry
-    \entry{narula2013relationship}{article}{}
-      \name{author}{2}{}{%
-        {{hash=f728bea2b95d229e1be3b11b301ea105}{%
-           family={Narula},
-           familyi={N\bibinitperiod},
-           given={Meenakshi},
-           giveni={M\bibinitperiod}}}%
-        {{hash=f511f7a9ab63137c4907f6115d71cf46}{%
-           family={Nagar},
-           familyi={N\bibinitperiod},
-           given={Pankaj},
-           giveni={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{db5eb4f8a6825c2d71f14b09a9a6c03e}
-      \strng{fullhash}{db5eb4f8a6825c2d71f14b09a9a6c03e}
-      \strng{bibnamehash}{db5eb4f8a6825c2d71f14b09a9a6c03e}
-      \strng{authorbibnamehash}{db5eb4f8a6825c2d71f14b09a9a6c03e}
-      \strng{authornamehash}{db5eb4f8a6825c2d71f14b09a9a6c03e}
-      \strng{authorfullhash}{db5eb4f8a6825c2d71f14b09a9a6c03e}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{International Journal of Computer Science and Mobile Computing}
-      \field{number}{8}
-      \field{title}{Relationship between students’ performance and class attendance in a Programming Language subject in a computer course}
-      \field{volume}{2}
-      \field{year}{2013}
-      \field{pages}{206\bibrangedash 210}
-      \range{pages}{5}
-    \endentry
-    \entry{yao2011correlation}{article}{}
-      \name{author}{2}{}{%
-        {{hash=cc296ca28f208485d8e6a3488babe9cb}{%
-           family={Yao},
-           familyi={Y\bibinitperiod},
-           given={Jenq-Foung"\bibnamedelima Jf"},
-           giveni={J\bibinithyphendelim F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=8d8d27c6c7bf1f7507baf8e339d569d3}{%
-           family={Chiang},
-           familyi={C\bibinitperiod},
-           given={Tsu-Ming},
-           giveni={T\bibinithyphendelim M\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Consortium for Computing Sciences in Colleges}%
-      }
-      \strng{namehash}{5bd596df9212892745eab3dd5406ac3b}
-      \strng{fullhash}{5bd596df9212892745eab3dd5406ac3b}
-      \strng{bibnamehash}{5bd596df9212892745eab3dd5406ac3b}
-      \strng{authorbibnamehash}{5bd596df9212892745eab3dd5406ac3b}
-      \strng{authornamehash}{5bd596df9212892745eab3dd5406ac3b}
-      \strng{authorfullhash}{5bd596df9212892745eab3dd5406ac3b}
-      \field{sortinit}{Y}
-      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of computing sciences in colleges}
-      \field{number}{2}
-      \field{title}{Correlation between class attendance and grade}
-      \field{volume}{27}
-      \field{year}{2011}
-      \field{pages}{142\bibrangedash 147}
+      \field{journaltitle}{Medical Education}
+      \field{number}{6}
+      \field{title}{A taxonomy of problem-based learning methods}
+      \field{volume}{20}
+      \field{year}{1986}
+      \field{pages}{481\bibrangedash 486}
       \range{pages}{6}
+    \endentry
+    \entry{collins1989cognitive}{article}{}
+      \name{author}{3}{}{%
+        {{hash=552a80ccb901f13e8efc2b9155309c1a}{%
+           family={Collins},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1a94e50810b78737254544c0f5092934}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={J.\bibnamedelimi S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b3cdd356b4be359cf6745b60063cdcc0}{%
+           family={Newman},
+           familyi={N\bibinitperiod},
+           given={S.\bibnamedelimi E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{73570dd9fae45501a5bbae4d23463d18}
+      \strng{fullhash}{73570dd9fae45501a5bbae4d23463d18}
+      \strng{bibnamehash}{73570dd9fae45501a5bbae4d23463d18}
+      \strng{authorbibnamehash}{73570dd9fae45501a5bbae4d23463d18}
+      \strng{authornamehash}{73570dd9fae45501a5bbae4d23463d18}
+      \strng{authorfullhash}{73570dd9fae45501a5bbae4d23463d18}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Thinking: The Journal of Philosophy for Children}
+      \field{number}{1}
+      \field{title}{Cognitive apprenticeship: Teaching the crafts of reading, writing, and mathematics}
+      \field{volume}{8}
+      \field{year}{1989}
+      \field{pages}{2\bibrangedash 10}
+      \range{pages}{9}
+    \endentry
+    \entry{dolmans2015problem}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1a268034d9b49d17161d12facf70422f}{%
+           family={Dolmans},
+           familyi={D\bibinitperiod},
+           given={D.\bibnamedelimi H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=83fa2f5ed9c5f485b569a50b8dc73786}{%
+           family={Loyens},
+           familyi={L\bibinitperiod},
+           given={S.\bibnamedelimi M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=18671a4a1911853a4e3108efe11e38cc}{%
+           family={Marcq},
+           familyi={M\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1ade0e32e52ddbffb76dc9fd9a54028b}{%
+           family={Gijbels},
+           familyi={G\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{1dd56d683d3809d0573e83c0f25d81cd}
+      \strng{fullhash}{397c4b41cca3643186f52327c7065534}
+      \strng{bibnamehash}{1dd56d683d3809d0573e83c0f25d81cd}
+      \strng{authorbibnamehash}{1dd56d683d3809d0573e83c0f25d81cd}
+      \strng{authornamehash}{1dd56d683d3809d0573e83c0f25d81cd}
+      \strng{authorfullhash}{397c4b41cca3643186f52327c7065534}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Health Sciences Education}
+      \field{number}{4}
+      \field{title}{Deep and surface learning in problem-based learning: a review of the literature}
+      \field{volume}{20}
+      \field{year}{2015}
+      \field{pages}{595\bibrangedash 608}
+      \range{pages}{14}
+    \endentry
+    \entry{fernandes2021improving}{article}{}
+      \name{author}{3}{}{%
+        {{hash=efa055bf4ccf76e171925e73006141ac}{%
+           family={Fernandes},
+           familyi={F\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8edb1d58c1e34031d8c39e8a325bbd08}{%
+           family={Dinis-Carvalho},
+           familyi={D\bibinithyphendelim C\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod}}}%
+        {{hash=394923d4d70f2e5337e9a2fec667886e}{%
+           family={Ferreira-Oliveira},
+           familyi={F\bibinithyphendelim O\bibinitperiod},
+           given={Ana\bibnamedelima Teresa},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI}%
+      }
+      \strng{namehash}{4222ee26fb65b30b6790acb6e82ab908}
+      \strng{fullhash}{4222ee26fb65b30b6790acb6e82ab908}
+      \strng{bibnamehash}{4222ee26fb65b30b6790acb6e82ab908}
+      \strng{authorbibnamehash}{4222ee26fb65b30b6790acb6e82ab908}
+      \strng{authornamehash}{4222ee26fb65b30b6790acb6e82ab908}
+      \strng{authorfullhash}{4222ee26fb65b30b6790acb6e82ab908}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Education sciences}
+      \field{number}{8}
+      \field{title}{Improving the performance of student teams in project-based learning with scrum}
+      \field{volume}{11}
+      \field{year}{2021}
+      \field{pages}{444}
+      \range{pages}{1}
+    \endentry
+    \entry{kenneweg2025problem}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a8f59cd97ed92438ee9c7ccf8b0a0ddc}{%
+           family={Kenneweg},
+           familyi={K\bibinitperiod},
+           given={Cornelia},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{a8f59cd97ed92438ee9c7ccf8b0a0ddc}
+      \strng{fullhash}{a8f59cd97ed92438ee9c7ccf8b0a0ddc}
+      \strng{bibnamehash}{a8f59cd97ed92438ee9c7ccf8b0a0ddc}
+      \strng{authorbibnamehash}{a8f59cd97ed92438ee9c7ccf8b0a0ddc}
+      \strng{authornamehash}{a8f59cd97ed92438ee9c7ccf8b0a0ddc}
+      \strng{authorfullhash}{a8f59cd97ed92438ee9c7ccf8b0a0ddc}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Workshopintern veröffentlicht}
+      \field{title}{Problem-Based Learning (PBL) als Möglichkeit Hochschullehre praxisorientiert zu gestalten}
+      \field{year}{2025}
+    \endentry
+    \entry{meissner2015brauchen}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f9f730dda9c0a11c71e376efdf717405}{%
+           family={Meissner},
+           familyi={M\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+        {{hash=a817b92eec4335057dd9a651962238f8}{%
+           family={Neng},
+           familyi={N\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {DiZ}%
+      }
+      \strng{namehash}{44ffc431c03af083384febd176c359ad}
+      \strng{fullhash}{44ffc431c03af083384febd176c359ad}
+      \strng{bibnamehash}{44ffc431c03af083384febd176c359ad}
+      \strng{authorbibnamehash}{44ffc431c03af083384febd176c359ad}
+      \strng{authornamehash}{44ffc431c03af083384febd176c359ad}
+      \strng{authorfullhash}{44ffc431c03af083384febd176c359ad}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{DiNa Sonderausgabe Praxisnah und Vielfältig: Problembasiertes Lernen in den Natur- und Ingenieurwissenschaften}
+      \field{number}{10}
+      \field{title}{Was brauchen wir in der Prüfung: Problembasiertes Lernen (PBL) im ersten Semester}
+      \field{volume}{2014}
+      \field{year}{2015}
+    \endentry
+    \entry{santos2015combining}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=284edf1a084dad9344975bf9c9624c13}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Alan\bibnamedelima R},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=e9ee470352819855812fcaf8046cc817}{%
+           family={Sales},
+           familyi={S\bibinitperiod},
+           given={Afonso},
+           giveni={A\bibinitperiod}}}%
+        {{hash=994242e11080798f2899524dcf0aac09}{%
+           family={Fernandes},
+           familyi={F\bibinitperiod},
+           given={Paulo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=864ae9c953500fdec0fafdbcf19b659d}{%
+           family={Nichols},
+           familyi={N\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f1ae76a2eb32b733aca8ba0142034935}
+      \strng{fullhash}{f0d2afaa51460a827fe0f011505900ce}
+      \strng{bibnamehash}{f1ae76a2eb32b733aca8ba0142034935}
+      \strng{authorbibnamehash}{f1ae76a2eb32b733aca8ba0142034935}
+      \strng{authornamehash}{f1ae76a2eb32b733aca8ba0142034935}
+      \strng{authorfullhash}{f0d2afaa51460a827fe0f011505900ce}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2015 ACM conference on innovation and technology in computer science education}
+      \field{title}{Combining challenge-based learning and scrum framework for mobile application development}
+      \field{year}{2015}
+      \field{pages}{189\bibrangedash 194}
+      \range{pages}{6}
+    \endentry
+    \entry{da2022scrum}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=6d665ec3272172be9c7102597fbf9b06}{%
+           family={Silva\bibnamedelima Devincenzi},
+           familyi={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=f7bd438fae546b157baded0ccc032fd7}{%
+           family={Kwecko},
+           familyi={K\bibinitperiod},
+           given={Viviani\bibnamedelima Rios},
+           giveni={V\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8f9f6f6c4fe5572dc533d90f17b70612}{%
+           family={Lima\bibnamedelima Bicho},
+           familyi={L\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=1a2d719cadd031bdd9e2c96f190da4da}{%
+           family={Tolêdo},
+           familyi={T\bibinitperiod},
+           given={Fernando\bibnamedelima Pereira},
+           giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=1607bef7affb7246d71c42aa3c7a380e}{%
+           family={Costa\bibnamedelima Botelho},
+           familyi={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Silvia\bibnamedelima Silva},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{d83067f6e0513c4ff8464d8901503f9d}
+      \strng{fullhash}{76fb6e7705d8b4dce44ce4dbbd34e43d}
+      \strng{bibnamehash}{d83067f6e0513c4ff8464d8901503f9d}
+      \strng{authorbibnamehash}{d83067f6e0513c4ff8464d8901503f9d}
+      \strng{authornamehash}{d83067f6e0513c4ff8464d8901503f9d}
+      \strng{authorfullhash}{76fb6e7705d8b4dce44ce4dbbd34e43d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2022 IEEE Frontiers in Education Conference (FIE)}
+      \field{title}{SCRUM applied to Problem-Based Learning: a hybrid model for managing the teaching-learning process}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
     \endentry
   \enddatalist
 \endrefsection

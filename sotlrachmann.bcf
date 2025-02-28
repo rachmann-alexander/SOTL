@@ -2361,11 +2361,16 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">10.1145/2843043.2843061</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">10.1145/1539024.1508923</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">narula2013relationship</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">yao2011correlation</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">Hafeez_Khan_Jawaid_Haroon_2014</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">fernandes2021improving</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">santos2015combining</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">da2022scrum</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">da2022scrum</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">meissner2015brauchen</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">kenneweg2025problem</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">kenneweg2025problem</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">kenneweg2025problem</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">da2022scrum</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">kenneweg2025problem</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
